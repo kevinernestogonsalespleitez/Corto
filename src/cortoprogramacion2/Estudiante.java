@@ -1,5 +1,5 @@
 package cortoprogramacion2;
 
-public class Estudiantes {
+public class Estudiante {
     
 }
